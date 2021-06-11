@@ -6,7 +6,7 @@ The recording is at https://www.youtube.com/watch?v=zMVLoBU-n3M
 
 The library I'm taking inspiration from: https://github.com/smol-rs/async-channel (and its dependency https://github.com/smol-rs/concurrent-queue)
 
-Good resources that explain things a lot better than I do:
+Good resources that explain things a lot better and more correctly than I do:
 
 Jon Gjengset's videos:
 
