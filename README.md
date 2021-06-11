@@ -1,6 +1,7 @@
 # Live coding a channel in Rust
 
 The results of https://www.meetup.com/Rust-Community-Stuttgart/events/nnmzcsyccjbnb/
+The recording is at https://www.youtube.com/watch?v=zMVLoBU-n3M
 
 The library I'm taking inspiration from: https://github.com/smol-rs/async-channel (and its dependency https://github.com/smol-rs/concurrent-queue)
 
